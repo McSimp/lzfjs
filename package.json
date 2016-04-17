@@ -1,0 +1,16 @@
+{
+  "name": "lzfjs",
+  "version": "1.0.0",
+  "description": "LZF compression/decompression in pure JS",
+  "main": "lzf.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/McSimp/lzfjs.git"
+  },
+  "keywords": [
+    "lzf", "compression", "decompression", "compress", "decompress"
+  ],
+  "author": "Will Donohoe",
+  "license": "BSD-2-Clause",
+  "readmeFilename": "README.md"
+}
