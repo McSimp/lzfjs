@@ -8,9 +8,20 @@
     "url": "git://github.com/McSimp/lzfjs.git"
   },
   "keywords": [
-    "lzf", "compression", "decompression", "compress", "decompress"
+    "lzf",
+    "compression",
+    "decompression",
+    "compress",
+    "decompress"
   ],
   "author": "Will Donohoe",
   "license": "BSD-2-Clause",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  }
 }
