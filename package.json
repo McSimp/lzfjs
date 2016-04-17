@@ -1,6 +1,6 @@
 {
   "name": "lzfjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LZF compression/decompression in pure JS",
   "main": "lzf.js",
   "repository": {
